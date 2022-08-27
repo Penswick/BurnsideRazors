@@ -1,0 +1,1 @@
+This is the front-end code for my fullstack app, burnside razors. First time playing around with styled components for React.

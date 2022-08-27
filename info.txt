@@ -1,0 +1,4 @@
+colors: 
+RED: #a80004
+DARK GREY: #1b1b1b
+Grad background:   background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
